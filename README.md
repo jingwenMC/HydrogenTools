@@ -1,2 +1,2 @@
 # HydrogenTools
-Hydrogen Tools - A Tool for Minecraft Massive Networks
+Hydrogen Tools - A Tool Colletion for Minecraft Massive Networks
